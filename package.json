@@ -50,22 +50,22 @@
     "formidable": "^3.5.4"
   },
   "devDependencies": {
-    "@commitlint/cli": "20.4.1",
-    "@commitlint/config-conventional": "20.4.1",
+    "@commitlint/cli": "^20.5.0",
+    "@commitlint/config-conventional": "^20.5.0",
     "@hoajs/adapter": "^0.1.3",
-    "@hoajs/router": "0.3.0",
-    "@jest/globals": "^30.2.0",
-    "@types/jest": "30.0.0",
-    "@types/node": "^22.15.2",
-    "eslint": "9.39.2",
-    "hoa": "*",
-    "husky": "9.1.7",
-    "jest": "30.2.0",
-    "neostandard": "0.12.2",
-    "ts-jest": "29.4.5",
+    "@hoajs/router": "^0.3.1",
+    "@jest/globals": "^30.3.0",
+    "@types/jest": "^30.0.0",
+    "@types/node": "^22.19.15",
+    "eslint": "^9.39.4",
+    "hoa": "^0.3.5",
+    "husky": "^9.1.7",
+    "jest": "^30.3.0",
+    "neostandard": "^0.12.2",
+    "ts-jest": "^29.4.6",
     "ts-node": "^10.9.2",
     "tsdown": "^0.20.3",
-    "typescript": "5.9.3"
+    "typescript": "^5.9.3"
   },
   "peerDependencies": {
     "hoa": "*"
